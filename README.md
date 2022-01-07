@@ -41,8 +41,6 @@ public void Presentation() {
 
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/gfbritto/count.svg" alt="Visitor Count" /></h2>
 
- ![Snake animation](https://github.com/Orlandoj77/Orlandoj77/blob/output/github-contribution-grid-snake.svg)
-
 [linkedin]: https://www.linkedin.com/in/gfbritto/
 <br>
 
