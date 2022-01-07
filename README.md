@@ -18,6 +18,7 @@ public void Presentation() {
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -37,6 +38,8 @@ public void Presentation() {
 <a href="https://github.com/gfbritto">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gfbritto&show_icons=true&theme=dracula&line_height=27" alt="**gfbritto** github stats"/>
 </a>
+
+<h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/gfbritto/count.svg" alt="Visitor Count" /></h2>
 
 [linkedin]: https://www.linkedin.com/in/gfbritto/
 <br>
