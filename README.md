@@ -1,6 +1,6 @@
 ### Fala ai :)
 
-Gosto de aprender novas tecnologias, e desenvolver coisas que despertem aquele **"UAU"**
+Gosto de aprender novas tecnologias e desenvolver coisas que despertem aquele **"UAU"**.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
