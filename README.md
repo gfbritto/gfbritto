@@ -39,7 +39,7 @@ public void Presentation() {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gfbritto&show_icons=true&theme=dracula&line_height=27" alt="**gfbritto** github stats"/>
 </a>
 
-<h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/gfbritto/count.svg" alt="Visitor Count" /></h2>
+<h2 align="center">Contagem de visitantes <img align="center" src="https://profile-counter.glitch.me/gfbritto/count.svg" alt="Contagem de visitantes" /></h2>
 
 [linkedin]: https://www.linkedin.com/in/gfbritto/
 <br>
