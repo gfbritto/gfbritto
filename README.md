@@ -23,7 +23,7 @@ const Presentation = () => {
         languages: [
             "C#",
             "Javascript",
-            "Java",
+            "Typescript",
             "Python"
         ]
     }
@@ -32,10 +32,11 @@ const Presentation = () => {
 ```
 
 ## **Interests**  
-- System Architeture, Design Patterns
+- Software Architeture, Design Patterns
 - Back-end Development, CI/CD, DevOps
 - C#, Javascript, Python
 - Cloud, Azure
+- Angular
 
 
 ## **Stats**
@@ -52,7 +53,7 @@ const Presentation = () => {
 
 [linkedin]: https://www.linkedin.com/in/gfbritto/
 
-#### Rede Sociais!
+#### Social media
 ✉ [email](mailto:gfbritto@outlook.com)
 
 🔗 [linkedin][linkedin]
