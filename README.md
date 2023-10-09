@@ -9,26 +9,24 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```Javascript
-const Presentation = () => {
-    const developer = {
-        name: "Gabriel Brito",
-        acknowledgements: [
-            "Rest APIs",
-            "Web development",
-            "TDD",
-            "Design patterns",
-            "Azure"
-        ],
-        primarySkillset: "Intermediary English",
-        languages: [
-            "C#",
-            "Javascript",
-            "Typescript",
-            "Python"
-        ]
-    }
-    return developer;
+const developer = {
+    name: "Gabriel Brito",
+    acknowledgements: [
+        "Rest APIs",
+        "Web development",
+        "TDD",
+        "Design patterns",
+        "Azure"
+    ],
+    primarySkillset: "Intermediary English",
+    languages: [
+        "C#",
+        "Javascript",
+        "Typescript",
+        "Python"
+    ]
 }
+export {developer};
 ```
 
 ## **Interests**  
