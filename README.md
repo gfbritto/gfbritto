@@ -1,57 +1,31 @@
-### Hello/ Olá :)
+## Gabriel Brito
 
-<sub>Pt-Br</sub> Gosto de aprender novas tecnologias e desenvolver coisas que despertem aquele **"UAU"**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+developer;.NET+%2B+AWS+serverless;Spec-driven+with+Claude+Code;Quebro+um+galho+no+frontend)](https://git.io/typing-svg)
 
-<sub>En-Us</sub> I like to learn new technologies and develop things that awaken that **"WOW"**.
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
+**EN** · Senior backend developer (.NET, AWS serverless, distributed systems) who handles the frontend when needed. São Paulo, Brazil.
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+**PT** · Desenvolvedor backend sênior (.NET, AWS serverless, sistemas distribuídos) que quebra o galho no frontend. São Paulo, Brasil.
 
-```Javascript
-const developer = {
-    name: "Gabriel Brito",
-    acknowledgements: [
-        "Rest APIs",
-        "Web development",
-        "TDD",
-        "Design patterns",
-        "Azure"
-    ],
-    primarySkillset: "Intermediary English",
-    languages: [
-        "C#",
-        "Javascript",
-        "Typescript",
-        "Python"
-    ]
-}
-export {developer};
-```
+### Stack
 
-## **Interests**  
-- Software Architeture, Design Patterns
-- Back-end Development, CI/CD, DevOps
-- C#, Javascript, Python
-- Cloud, Azure
-- Angular
+- **Backend:** C#, .NET, REST APIs, microservices
+- **AWS:** Lambda, API Gateway, DynamoDB, SQS, SNS, CloudFormation
+- **Data:** SQL Server, MongoDB, DynamoDB, Redis
+- **Observability:** Datadog
+- **Frontend, when needed:** React, TypeScript, Angular
 
+### What I like · O que eu curto
 
-## **Stats**
+- Event-driven, async systems that scale and stay observable. · Sistemas assíncronos e orientados a eventos que escalam e continuam observáveis.
+- Spec-driven development with AI: spec and tests first with Spec Kit, Claude Code implements, I review everything. · Spec-driven development com IA: spec e testes primeiro com Spec Kit, o Claude Code implementa, eu reviso tudo.
+- Setting team standards and mentoring. · Definir padrões para o time e fazer mentoria.
+- On the side: automating everyday things with AI agents. · Por fora: automatizar coisas do dia a dia com agentes de IA.
 
-<a href="https://github.com/gfbritto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfbritto&theme=dracula&hide_langs_below=1" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gfbritto/gfbritto/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/gfbritto/gfbritto/output/snake.svg" alt="snake eating my contribution graph">
+</picture>
 
-<a href="https://github.com/gfbritto">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gfbritto&show_icons=true&theme=dracula&line_height=27" alt="**gfbritto** github stats"/>
-</a>
-
-<h2 align="center">Visitors Count <img align="center" src="https://profile-counter.glitch.me/gfbritto/count.svg" alt="Contagem de visitantes" /></h2>
-
-[linkedin]: https://www.linkedin.com/in/gfbritto/
-
-#### Social media
-✉ [email](mailto:gfbritto@outlook.com)
-
-🔗 [linkedin][linkedin]
+[LinkedIn](https://www.linkedin.com/in/gfbritto/)
